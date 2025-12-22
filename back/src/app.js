@@ -1,6 +1,6 @@
 import express from "express"
 import cors from "cors"
-import roomRoutes from "./routes/roomRoutes"
+import roomRoutes from "./routes/roomRoutes.js"
 
 const app = express();
 
